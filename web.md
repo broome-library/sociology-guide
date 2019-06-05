@@ -12,10 +12,13 @@
 
 > A free and open online community of resources for faculty, staff, and students to share learning materials.
 
-## [Selected Internet Resources in Sociology](http://www.library.illinois.edu/edx/elecsoc.htm)
+## [Selected Internet Resources in Sociology](https://www.loc.gov/rr/main/alcove9/sociology.html)
 
-> A guide of various internet resources about Sociology provided by the University of Illinois at Urbana-Champaign.
+> A guide of various internet resources about Sociology provided by the US Library of Congress.
 
 ## [SocioWeb](http://www.socioweb.com/)
 
 > An independent guide to Sociological resources on the internet.
+
+
+
